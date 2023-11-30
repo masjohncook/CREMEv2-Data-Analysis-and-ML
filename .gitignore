@@ -2,3 +2,4 @@ venv
 .ipynb_checkpoints
 model_*
 CREME_dataset
+result
